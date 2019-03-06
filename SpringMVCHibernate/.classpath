@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Downloads/Updated Project/javax.mail.jar/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/smtp-1.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vishalrao.su/Documents/Jar/mvcjar/eclipselink.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
