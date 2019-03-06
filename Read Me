@@ -1,6 +1,7 @@
 The above project is an E-commerce application.
 Basic Requirement and installations Required.
-  . Eclipse or Spring Tool Suite.
+  . Eclipse
+  . Apache Tomcat or any other server is required to Run the application(Make sure you have given the Environment path correctly).
   . DataBase MYSQL,ORACLE or any other DataBase.
   . Set DataBase name as ecommerce.
   . Set the driver according to what database you are using.(This is set using MSQL
